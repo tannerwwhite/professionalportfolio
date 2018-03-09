@@ -1,0 +1,30 @@
+{
+  "name": "professionalportfolio",
+  "version": "0.0.1",
+  "description": "Professional Portfolio",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "jquery.easing": "^1.4.1",
+    "simple-line-icons": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tannerwwhite/professionalportfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Tanner W White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tannerwwhite/professionalportfolio/issues"
+  },
+  "homepage": "https://github.com/tannerwwhite/professionalportfolio#readme"
+}
